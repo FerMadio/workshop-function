@@ -8,7 +8,7 @@ entrypoint: /python/bin/fdk /function/func.py handler
 memory: 2048
 timeout: 300
 config:
-  TOPIC_OCID: ocid1.onssubscription.oc1.iad.aaaaaaaaeeea7b4d36gfk52qmryyoe7ebgrwac4vqlbqwfbo7nr3mxe4qnea
+  TOPIC_OCID: ocid1.onstopic.oc1.iad.aaaaaaaaynr74j3utixooud2erlsauesalmhkwgfjk3addc23kg523xb2rna
   ADB_OCID: ocid1.autonomousdatabase.oc1.iad.anuwcljsypqxugaash4ozgjkrj53m3ysljd5sh2nexxzplpc4ktztinmt7tq
   COMPANY: empresalifeseguros
   DBPWD: -D5teRIaMWR{8EyQSnwr
